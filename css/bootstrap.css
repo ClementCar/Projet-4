@@ -1436,8 +1436,9 @@ img {
 .thumbnail a>img,
 .thumbnail>img {
     display: block;
-    max-width: 100%;
-    height: auto
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
 .img-rounded {
@@ -2456,6 +2457,12 @@ pre code {
     .col-sm-offset-0 {
         margin-left: 0
     }
+}
+
+.listes{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
 }
 
 @media (min-width:992px) {
