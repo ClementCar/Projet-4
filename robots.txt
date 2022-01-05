@@ -1,3 +1,3 @@
 User-agent: *
-Allow: /
-sitemap: https://clementcar.github.io/Projet-4/sitemap.xml
+DISALLOW:
+SITEMAP: https://clementcar.github.io/Projet-4/sitemap.xml
