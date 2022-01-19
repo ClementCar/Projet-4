@@ -812,19 +812,19 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/AVIF/dots-bg.avif");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/AVIF/lines-h2-bg.avif");
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/AVIF/la-chouette-agence-banniere.avif");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
+    background-image: url("img/AVIF/image-de-presentation.avif");
 }
 
 @media (max-width: 1024px) {
