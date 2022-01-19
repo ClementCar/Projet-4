@@ -119,7 +119,7 @@ a:hover {
     border-color: rgba(255, 255, 255, .2);
 }
 
-.d-bloc .a-btn,
+/* .d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-sm,
@@ -134,7 +134,7 @@ a:hover {
 .d-bloc h6 a,
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
-}
+} */
 
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
@@ -173,6 +173,10 @@ a:hover {
 
 .d-bloc .panel icon {
     border-color: rgba(0, 0, 0, .7);
+}
+
+a {
+    color: black;
 }
 
 .d-bloc .panel .divider-h span {
@@ -653,7 +657,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black;
 }
 
 .container {
@@ -679,7 +683,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -694,7 +698,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #c27956!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -741,6 +745,10 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.black {
+    color: black;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -777,12 +785,12 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #edd458!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: black;
+    color: #c27956!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -812,19 +820,19 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/AVIF/dots-bg.avif");
+    background-image: url("img/dots-bg.png");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/AVIF/lines-h2-bg.avif");
+    background-image: url("img/lines-h2-bg.png");
 }
 
 .bg-banniere {
-    background-image: url("img/AVIF/la-chouette-agence-banniere.avif");
+    background-image: url("img/la-chouette-agence-banniere.jpg");
 }
 
 .bg-presentation {
-    background-image: url("img/AVIF/image-de-presentation.avif");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
